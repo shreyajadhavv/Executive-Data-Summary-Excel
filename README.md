@@ -53,11 +53,3 @@ Conditional calculations
 
 Multi-criteria aggregation
 
-Business performance comparison
-
-
-
-
-
-
-is.
